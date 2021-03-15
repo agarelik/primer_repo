@@ -9,6 +9,7 @@
        IDENTIFICATION DIVISION.
       *=======================*
        PROGRAM-ID. BSEO007.
+author. yo.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*

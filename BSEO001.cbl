@@ -11,6 +11,7 @@
        IDENTIFICATION DIVISION.
       *=======================*
        PROGRAM-ID. BSEO001.
+author. yo.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
