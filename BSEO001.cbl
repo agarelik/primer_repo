@@ -11,7 +11,7 @@
        IDENTIFICATION DIVISION.
       *=======================*
        PROGRAM-ID. BSEO001.
-author. yo.
+       AUTHOR. ARIEL GARELIK.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
