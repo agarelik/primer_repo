@@ -12,6 +12,7 @@
       *=======================*
        PROGRAM-ID. BSEO001.
        AUTHOR. ARIEL GARELIK.
+	   colegio. sek.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
