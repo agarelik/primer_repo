@@ -15,7 +15,7 @@
        colegio. sek.
        curso. 8f.
        tutor. simon.
-       jefe-ciclo. Arturo.
+       jefe-ciclo. don Arturo.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
