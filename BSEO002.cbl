@@ -9,6 +9,10 @@
        IDENTIFICATION DIVISION.
       *=======================*
        PROGRAM-ID. BSEO002.
+       author. alejandro garelik.
+       primaria. jerusalem.
+       secundaria. ort.
+       universitaria. utn.
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
