@@ -12,6 +12,7 @@
       *====================*
        ENVIRONMENT DIVISION.
       *====================*
+      * no se usa environment division en un programa cics
        DATA DIVISION.
       *=============*
        WORKING-STORAGE SECTION.
